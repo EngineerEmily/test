@@ -1,4 +1,4 @@
 test
 ====
 
-Trying to leanr how to use github and set up a repository
+Trying to learn how to use D3.js
